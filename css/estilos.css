@@ -1,0 +1,18 @@
+body
+{
+  padding: 10px;
+  margin: 40px;
+  font-size: 24px;
+  font-family: helvetica;
+  background-image: url(https://cutewallpaper.org/21/space-planet-background/Space-Planet-Wallpapers-Wallpaper-Cave.jpg);
+background-repeat: no-repeat;
+background-size: auto;
+color: white;
+}
+
+nav
+{
+  background-color: #2ab0b5;
+  padding: 0px;
+  color: white;
+}
